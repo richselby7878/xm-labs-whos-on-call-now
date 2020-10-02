@@ -1,5 +1,5 @@
 # Who's On-Call Now Workflow
-Not an integration, but something to help you keep on top of ever-changing on-call rotas. This workflow lets you enter a set of groups into the UI. Minutes later, someone gets an email detailing who is on call including escalations and nested groups.  Better still, you can schedule the report so it comes out every day. Yes, you can easily view this information in the xMatters UI. Go to Groups > Who's On Call and selects the groups you care about it. However, the UI has a maximum limit of 30 groups per query. And if you want to know the same information daily, why waste time dialling up the same report in the UI every day? 
+Not an integration, but something to help you keep on top of ever-changing on-call rotas. This workflow lets you enter a set of groups into the UI. Minutes later, someone gets an email detailing who is on call including escalations and nested groups.  Better still, you can schedule the report so it comes out every day. We acknowledge you can easily obtain this information in the xMatters UI. Go to Groups > Who's On Call and selects the groups you care about it. However, the UI has a maximum limit of 30 groups per query. And if you want to know the same information daily, why waste time dialling up the same report in the UI day-in day-out? 
 
 ---------
 
