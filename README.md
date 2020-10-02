@@ -65,10 +65,11 @@ Alternatively, you can configure so the report gets emailed to any user or group
 </kbd>
 
 
+
 4. Optional: There's a litle trick you can use to eliminate the No Recipients Selected warning when you initiate. First create an xMatters user called Nobody who has no devices. Open the __Who's On Call Now?__ form and set *Nobody* as recipient. You can also grey out the eye-icon to stop recipient from being displayed. Don't forget to Save Changes.
  
 <kbd>
-  <img src="/media/nobody" width="500">
+  <img src="/media/nobody.png" width="500">
 </kbd>
 
 
