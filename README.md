@@ -83,22 +83,22 @@ Execute a browser page reload, navigate to Messaging > Who's On-Call Now > Who's
 Debug logs are available. Navigate to the Who's On-Call Now workflows's Integration Builder tab, expand the Outbound integration section (Click where it says 1 Configured), then select Activity Stream from the right-hand gear icon. The Activity Stream contains logs.
 
 <kbd>
-  <img src="/media/activity_stream" width="500">
+  <img src="/media/activity_stream.png" width="500">
 </kbd>
 
 
 <kbd>
-  <img src="/media/activity_logs" width="500">
+  <img src="/media/activity_logs.png" width="500">
 </kbd>
 
 You can also see the same logs via Flow Designer, although it takes a bit more clicking to get there. Navigate to the __FLOWS__ tab, cilck the __Who's On Call workflow__. When the canvas opens, click the Activity button on the top right of the screen, then click __Slack Who's On Call - Event Status Updates__, then click the Log tab.
 
 <kbd>
-  <img src="/media/flow_canvas" width="750">
+  <img src="/media/flow_canvas.png" width="750">
 </kbd>
 
 The JavaScript code is contained within the __Who's On Call efficient__ custom step. You can access the code via the Flow tab > Custom draw on the right of the canvas. 
 
 <kbd>
-  <img src="/media/custom_step" width="500">
+  <img src="/media/custom_step.png" width="500">
 </kbd>
